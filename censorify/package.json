@@ -1,0 +1,17 @@
+{
+"author": "aakash71099",
+"name":"censorify",
+"version":"0.1.1",
+"description":"censors words out of text ",
+"main":"censortext.js",
+"repository":{
+"type": "git",
+"url":"https://github.com/aakash71099/assignment3/blob/master/censorify-0.1.1.tgz"},
+"keywords":[
+"censor",
+"words"],
+"dependecies":{},
+"engines":{
+"node": "*"
+}
+}
